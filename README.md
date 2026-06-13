@@ -54,3 +54,4 @@ Notebook-u i ruan automatikisht figurat në `figures/` dhe tabelat në `results/
 Repositori duhet të jetë publik dhe të dy anëtarët duhet të kenë commite individuale.
 Sugjerohet ndarja: anëtari 1 — parapërpunimi + klasifikimi; anëtari 2 — feature engineering + grupimi + raporti,
 me commite të vazhdueshme gjatë punës (jo një commit i vetëm në fund).
+ 
