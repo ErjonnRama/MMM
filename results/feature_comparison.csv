@@ -1,0 +1,5 @@
+,A: 8 numerike,B: top-4,C: + titull (TF-IDF)
+KNN,0.472,0.394,0.594
+Random Forest,0.506,0.426,0.913
+Logistic Regression,0.36,0.34,0.92
+MLP (NN),0.467,0.351,0.902

@@ -1,0 +1,5 @@
+Klasifikuesi,Saktësia,Precizioni,Recall,F1,Hiperparametrat
+KNN,0.6082,0.6007,0.5916,0.5938,"{'n_neighbors': 3, 'weights': 'distance'}"
+Random Forest,0.9224,0.9202,0.9076,0.9133,"{'max_depth': None, 'n_estimators': 100}"
+Logistic Regression,0.9293,0.9351,0.91,0.9205,{'C': 10}
+MLP (NN),0.9143,0.9056,0.8998,0.9022,"{'alpha': 0.0001, 'hidden_layer_sizes': (128, 64)}"
